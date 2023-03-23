@@ -1,0 +1,15 @@
+C:\Users\taber\Desktop\c#\LearningForLoop\bin\Debug\net6.0\LearningForLoop.exe
+C:\Users\taber\Desktop\c#\LearningForLoop\bin\Debug\net6.0\LearningForLoop.deps.json
+C:\Users\taber\Desktop\c#\LearningForLoop\bin\Debug\net6.0\LearningForLoop.runtimeconfig.json
+C:\Users\taber\Desktop\c#\LearningForLoop\bin\Debug\net6.0\LearningForLoop.dll
+C:\Users\taber\Desktop\c#\LearningForLoop\bin\Debug\net6.0\LearningForLoop.pdb
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\LearningForLoop.csproj.AssemblyReference.cache
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\LearningForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\LearningForLoop.AssemblyInfoInputs.cache
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\LearningForLoop.AssemblyInfo.cs
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\LearningForLoop.csproj.CoreCompileInputs.cache
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\LearningForLoop.dll
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\refint\LearningForLoop.dll
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\LearningForLoop.pdb
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\LearningForLoop.genruntimeconfig.cache
+C:\Users\taber\Desktop\c#\LearningForLoop\obj\Debug\net6.0\ref\LearningForLoop.dll
