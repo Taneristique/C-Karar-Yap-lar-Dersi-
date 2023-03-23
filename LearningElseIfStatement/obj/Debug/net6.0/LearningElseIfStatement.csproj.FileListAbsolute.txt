@@ -1,0 +1,15 @@
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\bin\Debug\net6.0\LearningElseIfStatement.exe
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\bin\Debug\net6.0\LearningElseIfStatement.deps.json
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\bin\Debug\net6.0\LearningElseIfStatement.runtimeconfig.json
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\bin\Debug\net6.0\LearningElseIfStatement.dll
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\bin\Debug\net6.0\LearningElseIfStatement.pdb
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\LearningElseIfStatement.csproj.AssemblyReference.cache
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\LearningElseIfStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\LearningElseIfStatement.AssemblyInfoInputs.cache
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\LearningElseIfStatement.AssemblyInfo.cs
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\LearningElseIfStatement.csproj.CoreCompileInputs.cache
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\LearningElseIfStatement.dll
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\refint\LearningElseIfStatement.dll
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\LearningElseIfStatement.pdb
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\LearningElseIfStatement.genruntimeconfig.cache
+C:\Users\taber\Desktop\c#\LearningElseIfStatement\obj\Debug\net6.0\ref\LearningElseIfStatement.dll
