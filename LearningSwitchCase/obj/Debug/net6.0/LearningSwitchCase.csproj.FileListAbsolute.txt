@@ -1,0 +1,15 @@
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\LearningSwitchCase.csproj.AssemblyReference.cache
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\LearningSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\LearningSwitchCase.AssemblyInfoInputs.cache
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\LearningSwitchCase.AssemblyInfo.cs
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\LearningSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\taber\Desktop\c#\LearningSwitchCase\bin\Debug\net6.0\LearningSwitchCase.exe
+C:\Users\taber\Desktop\c#\LearningSwitchCase\bin\Debug\net6.0\LearningSwitchCase.deps.json
+C:\Users\taber\Desktop\c#\LearningSwitchCase\bin\Debug\net6.0\LearningSwitchCase.runtimeconfig.json
+C:\Users\taber\Desktop\c#\LearningSwitchCase\bin\Debug\net6.0\LearningSwitchCase.dll
+C:\Users\taber\Desktop\c#\LearningSwitchCase\bin\Debug\net6.0\LearningSwitchCase.pdb
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\LearningSwitchCase.dll
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\refint\LearningSwitchCase.dll
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\LearningSwitchCase.pdb
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\LearningSwitchCase.genruntimeconfig.cache
+C:\Users\taber\Desktop\c#\LearningSwitchCase\obj\Debug\net6.0\ref\LearningSwitchCase.dll
