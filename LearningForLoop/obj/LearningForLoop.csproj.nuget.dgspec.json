@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taber\\Desktop\\c#\\LearningForLoop\\LearningForLoop.csproj": {}
+    "C:\\Users\\taber\\Desktop\\karar\\LearningForLoop\\LearningForLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taber\\Desktop\\c#\\LearningForLoop\\LearningForLoop.csproj": {
+    "C:\\Users\\taber\\Desktop\\karar\\LearningForLoop\\LearningForLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taber\\Desktop\\c#\\LearningForLoop\\LearningForLoop.csproj",
+        "projectUniqueName": "C:\\Users\\taber\\Desktop\\karar\\LearningForLoop\\LearningForLoop.csproj",
         "projectName": "LearningForLoop",
-        "projectPath": "C:\\Users\\taber\\Desktop\\c#\\LearningForLoop\\LearningForLoop.csproj",
+        "projectPath": "C:\\Users\\taber\\Desktop\\karar\\LearningForLoop\\LearningForLoop.csproj",
         "packagesPath": "C:\\Users\\taber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taber\\Desktop\\c#\\LearningForLoop\\obj\\",
+        "outputPath": "C:\\Users\\taber\\Desktop\\karar\\LearningForLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taber\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
