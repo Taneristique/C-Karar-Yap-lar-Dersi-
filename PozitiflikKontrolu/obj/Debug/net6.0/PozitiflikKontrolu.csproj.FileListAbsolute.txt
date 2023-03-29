@@ -1,0 +1,15 @@
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\bin\Debug\net6.0\PozitiflikKontrolu.exe
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\bin\Debug\net6.0\PozitiflikKontrolu.deps.json
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\bin\Debug\net6.0\PozitiflikKontrolu.runtimeconfig.json
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\bin\Debug\net6.0\PozitiflikKontrolu.dll
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\bin\Debug\net6.0\PozitiflikKontrolu.pdb
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\PozitiflikKontrolu.csproj.AssemblyReference.cache
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\PozitiflikKontrolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\PozitiflikKontrolu.AssemblyInfoInputs.cache
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\PozitiflikKontrolu.AssemblyInfo.cs
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\PozitiflikKontrolu.csproj.CoreCompileInputs.cache
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\PozitiflikKontrolu.dll
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\refint\PozitiflikKontrolu.dll
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\PozitiflikKontrolu.pdb
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\PozitiflikKontrolu.genruntimeconfig.cache
+C:\Users\taber\Desktop\karar\PozitiflikKontrolu\obj\Debug\net6.0\ref\PozitiflikKontrolu.dll

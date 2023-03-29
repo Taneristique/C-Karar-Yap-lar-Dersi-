@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taber\\Desktop\\c#\\LearningIfElseStatement\\LearningIfElseStatement.csproj",
+      "projectUniqueName": "C:\\Users\\taber\\Desktop\\karar\\LearningIfElseStatement\\LearningIfElseStatement.csproj",
       "projectName": "LearningIfElseStatement",
-      "projectPath": "C:\\Users\\taber\\Desktop\\c#\\LearningIfElseStatement\\LearningIfElseStatement.csproj",
+      "projectPath": "C:\\Users\\taber\\Desktop\\karar\\LearningIfElseStatement\\LearningIfElseStatement.csproj",
       "packagesPath": "C:\\Users\\taber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taber\\Desktop\\c#\\LearningIfElseStatement\\obj\\",
+      "outputPath": "C:\\Users\\taber\\Desktop\\karar\\LearningIfElseStatement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taber\\AppData\\Roaming\\NuGet\\NuGet.Config",

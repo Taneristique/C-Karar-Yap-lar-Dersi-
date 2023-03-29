@@ -1,0 +1,15 @@
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ortalama.csproj.AssemblyReference.cache
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ortalama.AssemblyInfoInputs.cache
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ortalama.AssemblyInfo.cs
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ortalama.csproj.CoreCompileInputs.cache
+C:\Users\taber\Desktop\karar\ortalama\bin\Debug\net6.0\ortalama.exe
+C:\Users\taber\Desktop\karar\ortalama\bin\Debug\net6.0\ortalama.deps.json
+C:\Users\taber\Desktop\karar\ortalama\bin\Debug\net6.0\ortalama.runtimeconfig.json
+C:\Users\taber\Desktop\karar\ortalama\bin\Debug\net6.0\ortalama.dll
+C:\Users\taber\Desktop\karar\ortalama\bin\Debug\net6.0\ortalama.pdb
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ortalama.dll
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\refint\ortalama.dll
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ortalama.pdb
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ortalama.genruntimeconfig.cache
+C:\Users\taber\Desktop\karar\ortalama\obj\Debug\net6.0\ref\ortalama.dll
